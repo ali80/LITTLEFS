@@ -36,7 +36,7 @@ private:
 
 }
 
-extern fs::LITTLEFSFS LITTLEFS;
+extern fs::LITTLEFSFS LittleFS;
 
 
 #endif

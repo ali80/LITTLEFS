@@ -136,5 +136,5 @@ size_t LITTLEFSFS::usedBytes()
     return used;
 }
 
-LITTLEFSFS LITTLEFS;
+LITTLEFSFS LittleFS;
 
